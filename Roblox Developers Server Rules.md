@@ -2,7 +2,7 @@
 
 :one: **Respect other members.** This means __no hate speech__, __racist__, __sexist__, __or otherwise discriminating speech__ towards other members.
 Swearing is allowed, as long as it doesn’t breach this rule.
-If you have a problem with another member, try to resolve it via DMs, or open a ticket at #report-a-user.
+If you have a problem with another member, try to resolve it via DMs, or open a ticket at <#639890173869555761>.
 
 :two: **No advertising** – do not advertise your games or discord servers here, either via DMs or directly in the server. It’s annoying. Doing this will result in a kick or ban.
 
@@ -13,7 +13,7 @@ Recommending games to others is allowed, within reason.
 :three: **No spam, NSFW or generally obnoxious content.**
 Slowmode is enabled in some channels to help with this, but it’s not a perfect system. Repeatedly posting the same message even in these channels will result in a warn.
 
-:four: **Use channels for their intended use.** Don’t talk in <#639853915080359936>, <#746833399175577601>, <#756620959720407141>, <#756621092801609888>, <#756621111722246225>, ... **Do not DM other members for help**, even staff, unless granted permission by that person. Don’t ask for help in #chat, don’t post your epic memes in #new-members.
+:four: **Use channels for their intended use.** Don’t talk in <#639853915080359936>, <#746833399175577601>, <#756620959720407141>, <#756621092801609888>, <#756621111722246225>, ... **Do not DM other members for help**, even staff, unless granted permission by that person. Don’t ask for help in <#639848186374127649>, don’t post your epic memes in <#639854296216633374>.
 If you have a question about a channel, feel free to ask a staff member.
 
 :five: **Always listen to moderators.** Moderators have the right to warn you if they think you did something wrong. So listen to them!
